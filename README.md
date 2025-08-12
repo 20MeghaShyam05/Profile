@@ -16,7 +16,7 @@ A user-friendly mobile application for individuals and small businesses to recor
 ### 📝 [Automated Essay Grading System](https://github.com/20MeghaShyam05/Essay_Grading)
 Leveraged NLP to build an essay grading platform that evaluates grammar, coherence, argument strength, and originality, providing detailed feedback to enhance student writing.
 
-### 🎶 Deep Audio Classification](https://github.com/20MeghaShyam05/Deep_Audio_Classification)
+### 🎶 [Deep Audio Classification](https://github.com/20MeghaShyam05/Deep_Audio_Classification)
 Built a machine learning model to classify music tracks into genres based on audio features. Implemented feature extraction and neural network design for accurate predictions.
 
 ### 🔷 [Conditional Polygon Colorization with Deep Learning](https://github.com/20MeghaShyam05/Polygon-Colorization-Using-Deep-Conditional-UNet-Models)
